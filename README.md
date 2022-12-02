@@ -10,6 +10,10 @@ Learn about HTML/CSS/Bootstap through creation. Also, when they are looking for 
 ## Tech used
 * HTML
 * css
+* js
+* Netlify for Deploymeny
+
+
 ## Installation
 No need to install anything,just open index.html
 ## How to use?
